@@ -4,4 +4,4 @@ Dogenobi is set apart by unique tokenomics to ensure that the liquidity pool is 
 
 A private sale has taken place for liquidity and marketing purposes and those in the private sale are well known, hand selected whale investors (many from SHINJA), who bring immense value to the project. 
 
-With Coingecko and CoinMarketCap Listings applied for on launch and a huge Marketing push on both Crypto Twitter and Telegram call pages this token has huge potential.
+Website: https://dogenobi.xyz/ || Twitter: https://twitter.com/DogenobiERC || Contract: 0x5e85796613a56960bbbfa95a2327a08d06d80d7d
